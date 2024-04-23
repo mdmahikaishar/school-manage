@@ -8,6 +8,14 @@ Everything moving towards digitalized. Traditional school system is too old and 
 
 
 
+## Get Started
+
+Install this software from this link [Download](https://drive.google.com/file/d/1G7jQIBUWSgnqp1EsdC9720IKl6sPJ0J8/view?usp=sharing).
+
+There is an issues. So please, run the software `As Administrator`.
+
+
+
 ## Features
 
 - Add Teacher/Student/Parent with detail information.
@@ -47,5 +55,4 @@ This project is in its early stages, and there are many missing features that ne
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/mdmahikaishar/school-manage/LICENSE) file for details.
-
+This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](https://github.com/mdmahikaishar/school-manage/LICENSE) file for details.
